@@ -1,0 +1,9 @@
+.env
+.env.*
+__pycache__/
+*.pyc
+logs/
+pendientes/*
+!pendientes/.gitkeep
+procesados/*
+!procesados/.gitkeep
